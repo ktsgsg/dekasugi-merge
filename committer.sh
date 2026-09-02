@@ -1,3 +1,4 @@
-git add .
+git add ./
 git commit -m "wow"
 git push
+##wo
